@@ -1,4 +1,4 @@
-# interactive-sz-effect
+# interactive-sz-effect [![Python version](https://img.shields.io/badge/python-3.6-red.svg)](https://img.shields.io/badge/python-3.6-red.svg)
 An interactive Jupyter notebook demo of the Sunyaev-Zel'dovich effect, using Bokeh.
 
 An out-of-the-box website version of the demo can be found at `interactive_sz_effect.html`. 

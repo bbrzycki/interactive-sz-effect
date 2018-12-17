@@ -7,7 +7,7 @@ An out-of-the-box website version of the demo can be found at `interactive_sz_ef
 
 First, clone this repository (`git clone git@github.com:bbrzycki/interactive-sz-effect.git`). 
 
-To install dependencies, simply run `pip install -r requirements.txt`. 
+To install dependencies, simply run `pip install -r requirements.txt` within the repository. Make sure you are using the Python 3 version of `pip`. 
 
 To open the website version of the demo, you should be able to run `open interactive_sz_effect.html` to spin up the demo in your default browser. Otherwise, navigate to the file and open it manually.
 
